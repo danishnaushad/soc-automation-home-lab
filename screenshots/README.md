@@ -1,7 +1,7 @@
-## Screenshots
+# Screenshots
 
-### VirtualBox Lab Environment
-![VirtualBox Lab](screenshots/virtualbox-lab.png)
+## VirtualBox Lab Environment
+![VirtualBox Lab](virtualbox-lab.png)
 
-### Ubuntu Server
-![Ubuntu Server](screenshots/ubuntu-server.png)
+## Ubuntu Server
+![Ubuntu Server](ubuntu-server.png)
