@@ -1,3 +1,7 @@
-# Screenshots
+## Screenshots
 
-This folder contains screenshots of the SOC Automation Home Lab setup, alerts, dashboards, and monitoring activities.
+### VirtualBox Lab Environment
+![VirtualBox Lab](screenshots/virtualbox-lab.png)
+
+### Ubuntu Server
+![Ubuntu Server](screenshots/ubuntu-server.png)
